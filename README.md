@@ -1,2 +1,0 @@
-# simpleginapi
-simple gin api
